@@ -4,6 +4,8 @@ The primary choice for Roblox clanning / futuretops.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Harvox/futurecocks-Remastered/refs/heads/main/main.luau"))()
 ```
 
-## Developers
+## Creator & Support
 
 ### Creator: [Harvox](https://github.com/Harvox)
+If you wish to support this project feel free to donate through crypto at:
+$LTC = 
